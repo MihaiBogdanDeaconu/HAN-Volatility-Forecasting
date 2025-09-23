@@ -1,0 +1,8 @@
+__pycache__/
+*.pth
+/logs
+*.zip
+*.parquet
+*.bsub
+*.pyc
+*.ipynb
