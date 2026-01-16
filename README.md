@@ -125,9 +125,3 @@ If you use this code or methodology in your research, please cite:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```
-
----
-
-**Next Step:** Would you like me to generate a `requirements.txt` file based on the libraries mentioned in this README (PyTorch, Pandas for parquet files, etc.) to go along with it?
-
-```
